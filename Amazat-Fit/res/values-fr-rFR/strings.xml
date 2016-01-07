@@ -3,17 +3,16 @@
     <string name="app_name">Amazit</string>
     <string name="ok">OK</string>
     <string name="cancel">Annuler</string>
-    <string name="action_exit">退出</string>
+    <string name="action_exit">Quitter</string>
     <string name="action_loading">Chargement</string>
     <string name="dialog_confirm">Ok</string>
     <string name="actionbar_menu">Menu</string>
-    <string name="alert_title_unable_start_camera">无法启动相机</string>
-    <string name="alert_body_unable_start_camera">"请检查是否已关闭相机权限，如是请
-开启相机权限，否则请重启手机。"</string>
-    <string name="hour">%d小时</string>
-    <string name="min">%d分钟</string>
-    <string name="sec">%d秒</string>
-    <string name="hour_min" formatted="false">%d小时%d分</string>
+    <string name="alert_title_unable_start_camera">Impossible demarrer camera</string>
+    <string name="alert_body_unable_start_camera">"Camera étaiente,Autoriser camera ou redémarrer téléphone"</string>
+    <string name="hour">Heures</string>
+    <string name="min">Minuetes</string>
+    <string name="sec">Secondes</string>
+    <string name="hour_min" formatted="false">Heures Minutes</string>
     <string name="hour_sec" formatted="false">%d小时%d秒</string>
     <string name="min_sec" formatted="false">%d分%d秒</string>
     <string name="hour_min_sec" formatted="false">%d小时%d分%d秒</string>
